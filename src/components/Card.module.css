@@ -1,0 +1,10 @@
+.cardStyle{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    background-color: #4D208C;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+}

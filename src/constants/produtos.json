@@ -4,13 +4,44 @@
     "name": "Perfume",
     "desc": "Miguel Rousseouf",
     "value": "100.00",
-    "image": "https://img.irroba.com.br/fit-in/600x600/filters:fill(fff):quality(80)/volarium/catalog/produtos/volarium/perfume/perfume-feminino/perfume-feminino-ch-tradicional-importado-original.jpg"
+    "image": "https://img.irroba.com.br/fit-in/600x600/filters:fill(fff):quality(80)/volarium/catalog/produtos/volarium/perfume/perfume-feminino/perfume-feminino-ch-tradicional-importado-original.jpg",
+    "category": "importados",
+    "status": false
   },
   {
     "id": 2,
     "name": "Colar",
     "desc": "Jand Karno em perolas",
     "value": "2200.00",
-    "image": "https://cdn.awsli.com.br/600x450/1537/1537341/produto/152389745/01e29e7fcc.jpg"
+    "image": "https://cdn.awsli.com.br/600x450/1537/1537341/produto/152389745/01e29e7fcc.jpg",
+    "category": "naturais",
+    "status": false
+  },
+  {
+    "id": 3,
+    "name": "Brincos",
+    "desc": "Conjunto de brincos cravejados",
+    "value": "800.00",
+    "image": "https://cdn.awsli.com.br/600x450/940/940346/produto/125527166/brinco-trio-de-argolas-crav-yiodcd1768.jpeg",
+    "category": "mais vendidos",
+    "status": false
+  },
+  {
+    "id": 4,
+    "name": "Brinco",
+    "desc": "Anel de zincônia",
+    "value": "1500.00",
+    "image": "https://cdn.awsli.com.br/600x450/1148/1148879/produto/241896174/img_9897-zhfa4gqaua.jpeg",
+    "category": "nacional",
+    "status": true
+  },
+  {
+    "id": 5,
+    "name": "Pulseira",
+    "desc": "Pulseira de gotas",
+    "value": "500.00",
+    "image": "https://cdn.awsli.com.br/600x450/1267/1267735/produto/4982519417db75e3b6.jpg",
+    "category": "nacional",
+    "status": false
   }
 ]

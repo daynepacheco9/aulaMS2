@@ -5,6 +5,8 @@
   align-items: center;
   justify-content: center;
   gap: 1vw;
+  position: fixed;
+
 }
 
 .wrapPage {
@@ -12,9 +14,35 @@
   height: auto;
   display: flex;
   flex-direction: column;
-  align-items: left;
+  align-items: center;
   justify-content: center;
   gap: 1vh;
   padding: 10px;
   background-color: rgb(47, 47, 47);
+  position: absolute;
+  top: 5vh;
+}
+
+.cardEnvelop{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2vw;
+}
+
+.cardApi{
+  padding: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2vw;
+  
+}
+
+.editCards{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+  width: 250px;
 }
