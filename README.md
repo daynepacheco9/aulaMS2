@@ -8,8 +8,8 @@ npm run dev
 
 Tarefas:
 
-- os botoes devem ficar fixos na tela, no top "0".
-- clone este repositório para o seu próprio, deixando apenas uma pasta root para futura manutenção de implantação.
+- os botoes devem ficar fixos na tela, no top "0".✅
+- clone este repositório para o seu próprio, deixando apenas uma pasta root para futura manutenção de implantação.✅
 - todo projeto deve estar responsivo.
 
 \_\_\_PRODUTOS
@@ -22,16 +22,16 @@ Tarefas:
 
 \_\_\_API
 
-- o flex wrap para os cards em row deve ser aplicado
-- um componente separado do Card de produtos deve ser criado especifico para name, status, species, type, gender e image.
-- para o console.log("Esta pagina nao contem este personagem"), deve ser criado um componente de alerta ou aviso
-- na documentacao da api ha mais um parametro chamado name na url, e mais um input para filtro por nome, deve ser incluido ao lado do de paginas.
+- o flex wrap para os cards em row deve ser aplicado✅
+- um componente separado do Card de produtos deve ser criado especifico para name, status, species, type, gender e image.✅
+- para o console.log("Esta pagina nao contem este personagem"), deve ser criado um componente de alerta ou aviso✅
+- na documentacao da api ha mais um parametro chamado name na url, e mais um input para filtro por nome, deve ser incluido ao lado do de paginas.✅
 
   ---DESAFIO => se sobrar tempo, no map do card com os personagens o index deve ser usado e implementado um modal q abra com um unico personagem e suas informacoes, o react-tilt ou o react-draggable devem ser usados.
 
 \_\_\_MAPA
 
-- usando o leaftlet e o react-leaft-let, fazer um mapa com a localizacao do Senai.
+- usando o leaftlet e o react-leaft-let, fazer um mapa com a localizacao do Senai.✅
 
 import 'leaflet/dist/leaflet.css';
 

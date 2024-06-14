@@ -6,7 +6,9 @@
   justify-content: center;
   gap: 1vw;
   position: fixed;
-
+  z-index: 999;
+  top: 0;
+  background-color:rgb(47, 47, 47);
 }
 
 .wrapPage {
@@ -19,22 +21,16 @@
   gap: 1vh;
   padding: 10px;
   background-color: rgb(47, 47, 47);
-  position: absolute;
-  top: 5vh;
+  padding-top: 50px;
+  z-index: -1;
 }
 
 .cardEnvelop{
   display: flex;
   flex-wrap: wrap;
   gap: 2vw;
-}
-
-.cardApi{
-  padding: 10px;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 2vw;
-  
+  justify-content: center;
+  align-items: center;
 }
 
 .editCards{
@@ -42,6 +38,7 @@
   flex-wrap: wrap;
   flex-direction: column;
   padding: 20px;
+  background-color: #4D208C;
   justify-content: center;
   align-items: center;
   width: 250px;
