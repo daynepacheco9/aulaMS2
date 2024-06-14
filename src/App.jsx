@@ -77,7 +77,7 @@ function App() {
       }
      {show === "map" &&
         <>
-      <h2>Mapa</h2>
+      <h2>Mapa Senai Celso Charuri</h2>
           <div>
              <Map/>
           </div>
