@@ -35,7 +35,7 @@ function App() {
   return (
     <>
     {
-      alert && <Alert message="Esta pagina nao contem este personagem" action={()=> {setAlert(false); setName("")}}/>
+      alert && <Alert message="Esta pagina nao contem este personagem" action={()=> {setAlert(false); setName(""); setPage("")}}/>
     }
     <div className={style.wrapBtns}>
       <button onClick={() => setShow("prod")}>Produtos</button>
